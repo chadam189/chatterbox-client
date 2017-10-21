@@ -96,4 +96,6 @@ form input[type=text] {
     border: solid 3px white;
 }
 
+.messageField:button {}
+
 
