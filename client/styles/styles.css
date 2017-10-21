@@ -65,7 +65,7 @@ form input[type=text] {
     background-color: #eee;
 }
 
-.chat .username {
+.username {
     font-weight: 800;
 }
 
@@ -87,4 +87,13 @@ form input[type=text] {
     color: #fff;
     background-color: #0090da;
 }
+
+.singleTweet {
+    color: white;
+    background-color: #0470DB;
+    margin: 0px;
+    padding-left: 20px;
+    border: solid 3px white;
+}
+
 
